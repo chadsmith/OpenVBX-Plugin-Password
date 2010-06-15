@@ -20,15 +20,6 @@
     </div>
 
     <div class="section" style="margin-bottom:20px;">
-        <h2>Wrong Password Prompt</h2>
-        <p>What the caller hears when they enter the wrong password.</p>
-
-        <div class="menu-prompt" style="margin-bottom:20px;">
-            <?php echo AppletUI::audioSpeechPicker('prompt-wrong'); ?>
-            </div>
-        </div>
-
-        <div style="margin-bottom:20px;">
         <h2>Correct Password Prompt</h2>
         <p>What the caller hears when they enter the correct password.</p>
 
