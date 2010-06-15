@@ -1,0 +1,6 @@
+{
+    "name": "Password",
+    "author": "Will Tran <wtran@twilio.com>",
+    "description": "Password protects the next applet in the flow.",
+    "type": "voice"
+}
